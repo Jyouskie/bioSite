@@ -1,13 +1,11 @@
-img {
-    width: 540px;
-    /* you can use % */
-    height: auto;
-}
-
 .container {
     position: relative;
     text-align: center;
     color: white;
+    background-image: url("/About_Page/images/Franklandscape.jpeg");
+    height: 400px;
+    background-size: cover;
+
 }
 
 .centered {
