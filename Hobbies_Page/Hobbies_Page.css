@@ -1,14 +1,14 @@
 body {
     padding: 0;
     margin: 0;
-    background: linear-gradient(45deg, #7d9eda, #dbba44);
+    background: linear-gradient(45deg, #7d9eda, #13d6db);
     padding: 40px;
 }
 
 nav {
     overflow: hidden;
     background-color: #0028db;
-    border: solid 1px #13d6db;
+    border: solid 2px #59db19;
 }
 
 nav a {
