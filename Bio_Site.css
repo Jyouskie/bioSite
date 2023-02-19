@@ -4,3 +4,30 @@ body {
     background: linear-gradient(45deg, #13D6DB, #59DB19);
     padding: 40px;
 }
+
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(45deg, #7d9eda, #dbba44);
+    padding: 40px;
+}
+
+nav {
+    overflow: hidden;
+    background-color: #0028db;
+    border: solid 1px #13d6db;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #1e67c9;
+    color: #3FF3FC;
+}
