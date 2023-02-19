@@ -29,7 +29,7 @@ nav a:hover {
     position: relative;
     text-align: center;
     color: white;
-    background-image: url("/Hobbies_Page/images/Age-of-Empires-III.jpg");
+    background-image: url("/bioSite/Hobbies_Page/images/Age-of-Empires-III.jpg");
     height: 300px;
     background-size: cover;
 }
@@ -45,7 +45,7 @@ nav a:hover {
     position: relative;
     text-align: center;
     color: black;
-    background-image: url("/Hobbies_Page/images/bookbanner.jpg");
+    background-image: url("/bioSite/Hobbies_Page/images/bookbanner.jpg");
     height: 300px;
     background-size: cover;
 }
@@ -61,7 +61,7 @@ nav a:hover {
     position: relative;
     text-align: center;
     color: saddlebrown;
-    background-image: url("/Hobbies_Page/images/baking.jpg");
+    background-image: url("/bioSite/Hobbies_Page/images/baking.jpg");
     height: 300px;
     background-size: cover;
     text-shadow: 1px 1px wheat;
