@@ -26,6 +26,23 @@ nav a:hover {
     color: #3FF3FC;
 }
 
+footer {
+    overflow: hidden;
+    background-color: #0028db;
+    position: fixed;
+    bottom: 0;
+    width: 97%;
+    border: solid 2px #dbba44;
+}
+
+footer p {
+    color: white;
+    font-weight: 400;
+    float: left;
+    padding-right: 10px;
+    font-style: italic;
+}
+
 /*.left {
     position: relative;
     text-align: center;
