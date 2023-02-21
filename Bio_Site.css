@@ -31,11 +31,12 @@ footer {
     background-color: #0028db;
     position: fixed;
     bottom: 0;
-    width: 97%;
+    width: 100%;
     border: solid 2px #dbba44;
 }
 
 footer p.copyright {
+    font-family: 'Lato', sans-serif;
     color: white;
     font-weight: 400;
     float: left;
@@ -44,6 +45,7 @@ footer p.copyright {
 }
 
 footer a {
+    font-family: 'Lato', sans-serif;
     color: white;
     font-weight: 400;
     float: right;
@@ -56,6 +58,41 @@ footer a:hover {
     background-color: #1e67c9;
     color: #3FF3FC;
 }
+
+h2.welcome {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*.left {
     position: relative;
