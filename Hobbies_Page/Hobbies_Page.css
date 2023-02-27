@@ -111,3 +111,10 @@ footer a:hover {
     background-color: #1e67c9;
     color: #3FF3FC;
 }
+
+div.boxthree {
+    margin: 100px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+}
