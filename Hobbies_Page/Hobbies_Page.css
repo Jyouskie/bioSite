@@ -48,11 +48,10 @@ nav a:hover {
 .baking {
     position: relative;
     text-align: center;
-    color: saddlebrown;
+    color: black;
     background-image: url("/bioSite/Hobbies_Page/images/baking.jpg");
     height: 300px;
     background-size: cover;
-    text-shadow: 1px 1px wheat;
 }
 
 
