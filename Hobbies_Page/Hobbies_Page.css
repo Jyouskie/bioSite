@@ -28,7 +28,7 @@ nav a:hover {
 .games {
     position: relative;
     text-align: center;
-    color: white;
+    color: black;
     background-image: url("/bioSite/Hobbies_Page/images/Age-of-Empires-III.jpg");
     height: 300px;
     background-size: cover;
