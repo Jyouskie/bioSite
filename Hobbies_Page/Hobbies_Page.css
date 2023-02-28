@@ -95,7 +95,8 @@ footer a:hover {
 }
 
 div.boxthree {
-    margin: 30px;
+    margin-top: 1px;
+    margin-bottom: 1px;
     background-color: #ffffff;
     border: 1px solid black;
     opacity: 0.6;
@@ -118,7 +119,8 @@ div.boxtwo {
 }
 
 div.boxone {
-    margin: 30px;
+    margin-top: 1px;
+    margin-bottom: 1px;
     background-color: #ffffff;
     border: 1px solid black;
     opacity: 0.6;
