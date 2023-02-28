@@ -43,7 +43,7 @@ nav a:hover {
     background-image: url("/bioSite/Hobbies_Page/images/bookbanner.jpg");
     height: 300px;
     background-size: cover;
-    font-size: 5vw;
+
 }
 
 
@@ -54,14 +54,13 @@ nav a:hover {
     background-image: url("/bioSite/Hobbies_Page/images/baking.jpg");
     height: 300px;
     background-size: cover;
-    font-size: 5vw;
+
 }
 
 
 h1 {
     text-align: center;
     text-decoration: underline;
-    font-size: 10vw;
 }
 
 footer {
