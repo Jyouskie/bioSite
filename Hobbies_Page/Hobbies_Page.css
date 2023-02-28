@@ -32,6 +32,7 @@ nav a:hover {
     background-image: url("/bioSite/Hobbies_Page/images/Age-of-Empires-III.jpg");
     height: 300px;
     background-size: cover;
+    font-size: 5vw;
 }
 
 
@@ -42,6 +43,7 @@ nav a:hover {
     background-image: url("/bioSite/Hobbies_Page/images/bookbanner.jpg");
     height: 300px;
     background-size: cover;
+    font-size: 5vw;
 }
 
 
@@ -52,12 +54,14 @@ nav a:hover {
     background-image: url("/bioSite/Hobbies_Page/images/baking.jpg");
     height: 300px;
     background-size: cover;
+    font-size: 5vw;
 }
 
 
 h1 {
     text-align: center;
     text-decoration: underline;
+    font-size: 10vw;
 }
 
 footer {
@@ -102,7 +106,7 @@ div.boxthree {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%);
 }
 
 div.boxtwo {
@@ -127,4 +131,5 @@ div.boxone {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+
 }
