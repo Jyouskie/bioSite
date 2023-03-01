@@ -14,7 +14,10 @@
     left: 30%;
     transform: translate(-50%, -50%);
     text-align: left;
-    font-size: large;
+}
+
+.centered h2 {
+    font-size: 300px;
     text-shadow: black 2px;
 }
 
