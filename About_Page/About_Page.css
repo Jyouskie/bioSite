@@ -8,6 +8,7 @@
 
 }
 
+/*Centered div*/
 .centered {
     position: absolute;
     top: 50%;
@@ -19,15 +20,20 @@
 .centered h2 {
     font-size: 50px;
     text-shadow: 4px 4px sandybrown;
+    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
+
 }
 
+/*Body*/
 body {
     padding: 0;
     margin: 0;
     background: linear-gradient(45deg, #7d9eda, #dbba44);
     padding: 40px;
+    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
 }
 
+/* Nav bar */
 nav {
     overflow: hidden;
     background-color: #0028db;
@@ -48,6 +54,7 @@ nav a:hover {
     color: #3FF3FC;
 }
 
+/*Footer */
 footer {
     overflow: hidden;
     background-color: #0028db;
@@ -58,7 +65,7 @@ footer {
 }
 
 footer p.copyright {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
     color: white;
     font-weight: 400;
     float: left;
@@ -67,7 +74,7 @@ footer p.copyright {
 }
 
 footer a {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
     color: white;
     font-weight: 400;
     float: right;
