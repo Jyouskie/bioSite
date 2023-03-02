@@ -3,12 +3,14 @@ body {
     margin: 0;
     background: linear-gradient(45deg, #13D6DB, #59DB19);
     padding: 40px;
+    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
 }
 
 
 nav {
     overflow: hidden;
     background-color: #0028db;
+    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
 }
 
 nav a {
@@ -35,7 +37,7 @@ footer {
 }
 
 footer p.copyright {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
     color: white;
     font-weight: 400;
     float: left;
@@ -44,7 +46,7 @@ footer p.copyright {
 }
 
 footer a {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
     color: white;
     font-weight: 400;
     float: right;
@@ -59,7 +61,7 @@ footer a:hover {
 }
 
 h2.welcome {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
     font-weight: 400;
     text-align: center;
 
@@ -70,11 +72,12 @@ header {
     color: white;
     padding: 20px;
     text-align: center;
+    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
 }
 
 
 h1 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
     font-weight: 700;
     text-align: center;
     text-decoration: underline;
