@@ -96,10 +96,9 @@ div.top {
     background-size: cover;
 }
 
-/*
 .aboutcontainer {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-} working on sizing down the pictures will be updates next turn in cycle */
+}
