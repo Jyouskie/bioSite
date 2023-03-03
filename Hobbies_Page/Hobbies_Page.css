@@ -5,6 +5,7 @@ body {
     padding: 40px;
 }
 
+/*nav bar*/
 nav {
     overflow: hidden;
     background-color: #0028db;
@@ -25,6 +26,9 @@ nav a:hover {
     color: #3FF3FC;
 }
 
+
+
+/*games container div*/
 .games {
     position: relative;
     text-align: center;
@@ -34,7 +38,7 @@ nav a:hover {
     background-size: cover;
 }
 
-
+/*reading container div*/
 .reading {
     position: relative;
     text-align: center;
@@ -45,7 +49,7 @@ nav a:hover {
 
 }
 
-
+/*baking container div*/
 .baking {
     position: relative;
     text-align: center;
@@ -56,13 +60,14 @@ nav a:hover {
 
 }
 
-
+/*franks hobbies title*/
 h1 {
     text-align: center;
     text-decoration: underline;
     font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
 }
 
+/*footer*/
 footer {
     overflow: hidden;
     background-color: #0028db;
@@ -96,6 +101,7 @@ footer a:hover {
     color: #3FF3FC;
 }
 
+/* The back ground for the paragraphs*/
 div.boxthree {
     margin-top: 1px;
     margin-bottom: 1px;
@@ -133,6 +139,7 @@ div.boxone {
 
 }
 
+/* for the font of the words in side the pictures*/
 p {
     font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
     font-size: medium;
