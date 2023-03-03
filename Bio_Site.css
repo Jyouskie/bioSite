@@ -87,34 +87,16 @@ div.top {
     border: solid 2px #dbba44;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*.left {
+.left {
     position: relative;
     text-align: center;
-    color: white;
-    background-image: url("/landingpageimages/image2.jpeg");
+    color: black;
+    background-image: url("/biosite/landingpageimages/image2.jpg");
     height: 400px;
     background-size: cover;
 }
 
+/*
 .aboutcontainer {
     position: absolute;
     top: 50%;
