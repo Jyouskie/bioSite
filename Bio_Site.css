@@ -86,32 +86,3 @@ h1 {
 div.top {
     border: solid 2px #dbba44;
 }
-
-.left {
-    position: relative;
-    text-align: left;
-    color: black;
-    background-image: url("/landingpageimages/image2.jpg");
-    height: 300px;
-    background-size: cover;
-}
-
-
-div.middle {
-    position: relative;
-    text-align: center;
-    color: black;
-    background-image: url("/landingpageimages/games.jpeg");
-    height: 300px;
-    background-size: cover;
-
-}
-
-div.CSDcontainer {
-    position: relative;
-    text-align: right;
-    color: black;
-    background-image: url("/landingpageimages/bellevue.png");
-    height: 300px;
-    background-size: cover;
-}
