@@ -96,16 +96,10 @@ div.top {
     background-size: cover;
 }
 
-.aboutcontainer {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
 
 div.middle {
     position: relative;
-    text-align: left;
+    text-align: center;
     color: black;
     background-image: url("/landingpageimages/games.jpeg");
     height: 300px;
@@ -113,25 +107,11 @@ div.middle {
 
 }
 
-div.hoobiescontainer {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
 div.CSDcontainer {
     position: relative;
-    text-align: left;
+    text-align: right;
     color: black;
     background-image: url("/landingpageimages/bellevue.png");
     height: 300px;
     background-size: cover;
-}
-
-div.right {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
