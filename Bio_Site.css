@@ -92,11 +92,44 @@ div.top {
     text-align: left;
     color: black;
     background-image: url("/landingpageimages/image2.jpg");
-    height: 400px;
+    height: 300px;
     background-size: cover;
 }
 
 .aboutcontainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+div.middle {
+    position: relative;
+    text-align: left;
+    color: black;
+    background-image: url("/landingpageimages/games.jpeg");
+    height: 300px;
+    background-size: cover;
+
+}
+
+div.hoobiescontainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+div.CSDcontainer {
+    position: relative;
+    text-align: left;
+    color: black;
+    background-image: url("/landingpageimages/bellevue.png");
+    height: 300px;
+    background-size: cover;
+}
+
+div.right {
     position: absolute;
     top: 50%;
     left: 50%;
