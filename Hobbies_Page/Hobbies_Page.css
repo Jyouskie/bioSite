@@ -77,27 +77,15 @@ footer {
     border: solid 2px #dbba44;
 }
 
-footer p.copyright {
+footer {
+    padding: 20px;
+    background-color: #0028db;
+    color: #fff;
+    text-align: center;
     font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
-    color: white;
-    font-weight: 400;
-    float: left;
-    padding-right: 10px;
-    font-style: italic;
 }
 
 footer a {
-    font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
-    color: white;
-    font-weight: 400;
-    float: right;
-    padding-right: 10px;
-    font-style: italic;
-    text-decoration: none;
-}
-
-footer a:hover {
-    background-color: #1e67c9;
     color: #3FF3FC;
 }
 
