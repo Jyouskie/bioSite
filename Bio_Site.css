@@ -86,3 +86,29 @@ h1 {
 div.top {
     border: solid 2px #dbba44;
 }
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    /* Adjust the value as per your requirement */
+    margin: 0 auto;
+}
+
+.button-container a {
+    display: block;
+    width: 30%;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.button-container a:hover {
+    background-color: #000;
+    color: #fff;
+}
