@@ -4,6 +4,7 @@ body {
     background: linear-gradient(45deg, #13D6DB, #59DB19);
     padding: 40px;
     font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
+    min-height: 100vh;
 }
 
 
@@ -32,6 +33,7 @@ footer {
     background-color: #0028db;
     color: #fff;
     text-align: center;
+
 }
 
 footer a {
@@ -68,7 +70,7 @@ div.top {
 .button-container {
     display: flex;
     justify-content: space-between;
-    max-width: 800px;
+    max-width: 1000px;
     /* Adjust the value as per your requirement */
     margin: 0 auto;
 }
