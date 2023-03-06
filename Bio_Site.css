@@ -31,7 +31,7 @@ nav a:hover {
 footer {
     padding: 20px;
     background-color: #0028db;
-    color: #7d9eda;
+    color: #fff;
     text-align: center;
     font-family: 'Lato', 'Georgia', 'Times New Roman', 'Times', 'serif';
 }
@@ -111,6 +111,6 @@ div.top {
     z-index: 1;
     font-size: 24px;
     font-weight: bold;
-    color: white;
+    color: rgb(89, 89, 89);
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
