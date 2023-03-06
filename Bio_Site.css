@@ -90,3 +90,25 @@ div.top {
     background-color: #000;
     color: #fff;
 }
+
+.button {
+    display: inline-block;
+    position: relative;
+}
+
+.button img {
+    display: block;
+    width: 100%;
+}
+
+.button-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
