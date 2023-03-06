@@ -28,11 +28,8 @@ nav a:hover {
 }
 
 footer {
-    overflow: hidden;
+    padding: 20px;
     background-color: #0028db;
-    position: fixed;
-    bottom: 0;
-    width: 1350px;
     border: solid 2px #dbba44;
 }
 
