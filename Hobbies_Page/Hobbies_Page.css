@@ -69,15 +69,6 @@ h1 {
 
 /*footer*/
 footer {
-    overflow: hidden;
-    background-color: #0028db;
-    position: fixed;
-    bottom: 0;
-    width: 1375px;
-    border: solid 2px #dbba44;
-}
-
-footer {
     padding: 20px;
     background-color: #0028db;
     color: #fff;
