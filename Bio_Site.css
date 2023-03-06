@@ -71,7 +71,6 @@ div.top {
     display: flex;
     justify-content: space-between;
     max-width: 1000px;
-    /* Adjust the value as per your requirement */
     margin: 0 auto;
 }
 
